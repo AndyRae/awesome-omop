@@ -182,6 +182,7 @@ Developer tools and infrastructure components:
 - [CVB](https://github.com/TuftsCTSI/CVB) - Custom vocabulary builder
 - [omophub-python](https://github.com/OMOPHub/omophub-python) - Python SDK for the OMOPHub vocabulary API
 - [omophub-R](https://github.com/OMOPHub/omophub-R) - R SDK for the OMOPHub vocabulary API
+- [omophub-node](https://github.com/OMOPHub/omophub-node) - Node.js SDK for the OMOPHub vocabulary API
 - [omophub-mcp](https://github.com/OMOPHub/omophub-mcp) - MCP server for OMOP vocabularies
 
 ### Datasets
