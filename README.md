@@ -50,6 +50,7 @@ Tools for transforming data into OMOP CDM:
 - [FinOMOP_mappings](https://github.com/FinOMOP/FinOMOP_mappings) - Mapping of Finnish medical vocabularies
 - [ready42](https://github.com/Centre-for-AI-Innovation/ready42) - Tools for data curation and mapping into OMOP CDM
 - [Ariadne](https://github.com/OHDSI/Ariadne) - Python toolkit for mapping source terminologies to standard concepts
+- [OCL Mapper](https://github.com/OpenConceptLab/oclmap) - AI-supported terminology mapping from Open Concept Lab
 
 
 #### Transformation
