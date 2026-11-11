@@ -116,7 +116,6 @@ Tools for analyzing and visualizing OMOP data:
 - [Picard](https://github.com/OHDSI/Picard) - RWE pipelining tool favouring OHDSI tools
 - [OPAL](https://github.com/DorianGrousset/OPAL) - Data quality, cohort building, and concept exploration platform
 - [ehrapy](https://github.com/theislab/ehrapy) - Python EHR analysis, with OMOP support through [ehrdata](https://github.com/theislab/ehrdata)
-- [All of Us Researcher Workbench](https://github.com/all-of-us/workbench) - Research platform for the All of Us OMOP dataset
 - [IncidencePrevalence](https://github.com/darwin-eu/IncidencePrevalence) - Estimate incidence and prevalence
 - [CodelistGenerator](https://github.com/darwin-eu/CodelistGenerator) - Find relevant concepts in the OMOP vocabularies
 - [PatientProfiles](https://github.com/darwin-eu/PatientProfiles) - Add patient-level characteristics to OMOP tables
