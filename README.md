@@ -103,7 +103,6 @@ Tools for analyzing and visualizing OMOP data:
 - [Atlas3](https://github.com/OHDSI/Atlas3) - Updated reimplementation of OHDSI ATLAS for cohort definition and analysis
 - [CohortDiagnostics](https://github.com/OHDSI/CohortDiagnostics) - Cohort characterization and diagnostics
 - [CohortGenerator](https://github.com/OHDSI/CohortGenerator) - Cohort definition and generation
-- [PhenEx](https://github.com/Bayer-Group/PhenEx) - Python framework for phenotype and cohort extraction, with built-in OMOP support
 - [Characterization](https://github.com/OHDSI/Characterization) - Patient and cohort characterization
 - [Cyclops](https://github.com/OHDSI/Cyclops) - Large scale regularized regressions
 - [CohortMethod](https://github.com/OHDSI/CohortMethod) - Population-level effect estimation
@@ -138,7 +137,6 @@ AI/ML tools built for OMOP data:
 - [CohortMethod](https://github.com/OHDSI/CohortMethod) - Population-level effect estimation
 - [omcp](https://github.com/fastomop/omcp) - MCP server for OMOP
 - [omop_mcp](https://github.com/OHNLP/omop_mcp) - MCP server for OMOP
-- [ascent-epi-demo](https://github.com/Bayer-Group/ascent-epi-demo) - MCP agent demo for natural-language epidemiology and cohort generation on OMOP (Ascent)
 - [onto-llm-mapping](https://github.com/cns-iu/onto-llm-mapping) - Ontology mapping with LLM + RAG
 - [Pythia](https://github.com/OHDSI/Pythia) - AI cohort-design advisor for ATLAS 3.0
 - [StudyAgent](https://github.com/OHDSI/StudyAgent) - Agentic study execution
