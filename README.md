@@ -50,6 +50,7 @@ Tools for transforming data into OMOP CDM:
 - [FinOMOP_mappings](https://github.com/FinOMOP/FinOMOP_mappings) - Mapping of Finnish medical vocabularies
 - [ready42](https://github.com/Centre-for-AI-Innovation/ready42) - Tools for data curation and mapping into OMOP CDM
 - [Ariadne](https://github.com/OHDSI/Ariadne) - Python toolkit for mapping source terminologies to standard concepts
+- [OCL Mapper](https://github.com/OpenConceptLab/oclmap) - AI-supported terminology mapping from Open Concept Lab
 
 
 #### Transformation
@@ -102,7 +103,6 @@ Tools for analyzing and visualizing OMOP data:
 - [Atlas3](https://github.com/OHDSI/Atlas3) - Updated reimplementation of OHDSI ATLAS for cohort definition and analysis
 - [CohortDiagnostics](https://github.com/OHDSI/CohortDiagnostics) - Cohort characterization and diagnostics
 - [CohortGenerator](https://github.com/OHDSI/CohortGenerator) - Cohort definition and generation
-- [PhenEx](https://github.com/Bayer-Group/PhenEx) - Python framework for phenotype and cohort extraction, with built-in OMOP support
 - [Characterization](https://github.com/OHDSI/Characterization) - Patient and cohort characterization
 - [Cyclops](https://github.com/OHDSI/Cyclops) - Large scale regularized regressions
 - [CohortMethod](https://github.com/OHDSI/CohortMethod) - Population-level effect estimation
@@ -116,7 +116,6 @@ Tools for analyzing and visualizing OMOP data:
 - [Picard](https://github.com/OHDSI/Picard) - RWE pipelining tool favouring OHDSI tools
 - [OPAL](https://github.com/DorianGrousset/OPAL) - Data quality, cohort building, and concept exploration platform
 - [ehrapy](https://github.com/theislab/ehrapy) - Python EHR analysis, with OMOP support through [ehrdata](https://github.com/theislab/ehrdata)
-- [All of Us Researcher Workbench](https://github.com/all-of-us/workbench) - Research platform for the All of Us OMOP dataset
 - [IncidencePrevalence](https://github.com/darwin-eu/IncidencePrevalence) - Estimate incidence and prevalence
 - [CodelistGenerator](https://github.com/darwin-eu/CodelistGenerator) - Find relevant concepts in the OMOP vocabularies
 - [PatientProfiles](https://github.com/darwin-eu/PatientProfiles) - Add patient-level characteristics to OMOP tables
@@ -137,7 +136,6 @@ AI/ML tools built for OMOP data:
 - [CohortMethod](https://github.com/OHDSI/CohortMethod) - Population-level effect estimation
 - [omcp](https://github.com/fastomop/omcp) - MCP server for OMOP
 - [omop_mcp](https://github.com/OHNLP/omop_mcp) - MCP server for OMOP
-- [ascent-epi-demo](https://github.com/Bayer-Group/ascent-epi-demo) - MCP agent demo for natural-language epidemiology and cohort generation on OMOP (Ascent)
 - [onto-llm-mapping](https://github.com/cns-iu/onto-llm-mapping) - Ontology mapping with LLM + RAG
 - [Pythia](https://github.com/OHDSI/Pythia) - AI cohort-design advisor for ATLAS 3.0
 - [StudyAgent](https://github.com/OHDSI/StudyAgent) - Agentic study execution
