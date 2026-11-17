@@ -26,7 +26,7 @@ It's not everything - the [OHDSI organisation](https://github.com/OHDSI) has ove
 Tools for transforming data into OMOP CDM:
 
 - [Rabbit-in-a-Blender](https://github.com/RADar-AZDelta/Rabbit-in-a-Blender) - Full ETL tool
-- [Carrot](https://github.com/Health-Informatics-UoN/carrot-mapper) - Toolset for ETL
+- [Carrot](https://github.com/Health-Informatics-UoN/carrot) - Toolset for ETL
 - [Data2Evidence](https://github.com/OHDSI/Data2Evidence) - End to end ETL tool
 - [OMOP on FHIR](https://github.com/omoponfhir) - FHIR built on top of OMOP
 
@@ -90,6 +90,7 @@ Tools for transforming data into OMOP CDM:
 - [FinnGen/ETL](https://github.com/FINNGEN/ETL) - FinnGen ETL
 - [mimic-iv-dbt](https://github.com/saywurdson/mimic-iv-dbt) - MIMIC-IV to CDM 5.4 with DuckDB and dbt
 - [dbt_mimic_omop](https://github.com/CogStack/dbt_mimic_omop) - MIMIC-IV and MIMIC-IV-Note to OMOP CDM with dbt
+- [OHDSI MIMIC](https://github.com/OHDSI/MIMIC) - MIMIC-IV ETL
 
 ### 📊 Analytics & Research
 
@@ -124,6 +125,8 @@ Tools for analyzing and visualizing OMOP data:
 - [visOmopResults](https://github.com/darwin-eu/visOmopResults) - Tables and plots for OMOP study results
 - [PSDL](https://github.com/Chesterguan/PSDL) - Portable language for clinical scenario and cohort definitions
 - [omopy](https://github.com/fastomop/omopy) - Python reimplementation of the DARWIN EU R packages
+- [SelfControlledCaseSeries](https://github.com/OHDSI/SelfControlledCaseSeries) - Self-controlled case series analyses
+- [OMOPCDMCohortCreator.jl](https://github.com/JuliaHealth/OMOPCDMCohortCreator.jl) - Julia package for creating cohorts from OMOP CDM databases
 
 ### 🤖 Machine Learning & AI
 
@@ -142,6 +145,7 @@ AI/ML tools built for OMOP data:
 - [trex](https://github.com/OHDSI/trex) - Supabase-compatible backend with an embedded analytical engine and agent runtime
 - [FEMR](https://github.com/som-shahlab/femr) - Framework for EHR foundation models (CLMBR, MOTOR) on OMOP data
 - [EDS-NLP](https://github.com/aphp/edsnlp) - Clinical NLP framework from AP-HP
+- [PyHealth](https://github.com/sunlabuiuc/PyHealth) - Deep learning toolkit for healthcare AI, with OMOP dataset support
 
 
 ### 🛠️ Development & Infrastructure
@@ -164,6 +168,7 @@ Developer tools and infrastructure components:
 - [OMOPCommonDataModel.jl](https://github.com/JuliaHealth/OMOPCommonDataModel.jl) - Julia implementation of the OMOP CDM
 - [pyomop](https://github.com/dermatologist/pyomop) - Useful OMOP "swiss army knife" in Python
 - [PatientGenerator](https://github.com/OHDSI/PatientGenerator) - Synthetic data generator for OMOP
+- [CIRCE-BE](https://github.com/OHDSI/circe-be) - Cohort definition and SQL compiler used by ATLAS
 - [Circepy](https://github.com/OHDSI/circepy) - Python implementation of CIRCE-BE
 - [GIS](https://github.com/OHDSI/GIS) - Geospatial and exposome data in the CDM
 - [gaiaDB](https://github.com/OHDSI/gaiaDB) - Staging database and transformation recipes for place-based datasets
